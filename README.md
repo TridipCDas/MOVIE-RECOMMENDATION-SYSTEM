@@ -8,8 +8,9 @@ This repository consists of two movie recommendation system.
 
 1. <b>BASED ON WEIGHTED AVERAGE<b>
     REFERENCES 
-    </br> 1:https://math.stackexchange.com/questions/169032/understanding-the-imdb-weighted-rating-function-for-usage-on-my-own-website
-   
+    </br>https://math.stackexchange.com/questions/169032/understanding-the-imdb-weighted-rating-function-for-usage-on-my-own-website
+    
+    </br>https://www.youtube.com/watch?v=_hf_y-_sj5Y&list=PLZoTAELRMXVN7QGpcuN-Vg35Hgjp3htvi&index=1
   
 2. CONTENT-BASED RECOMMENDATION SYSTEM
     
